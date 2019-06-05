@@ -1,1 +1,1 @@
-#BOJ solution
+# BOJsolution
